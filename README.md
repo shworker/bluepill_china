@@ -3,7 +3,7 @@ Some files to work with the Chinese Bluepill clone for OpenOCD
 
 How to use:
 
- - edit scripts:
-   - path and name of your project 
-   - path to openocd
- 
+ - edit script new_flash.sh:
+   - path to your projects
+   - name of your project 
+  
